@@ -1,6 +1,6 @@
 # waveshare-knob-hid-keyboard
 
-A simple Arduino hid keyboard for the waveshare 1.8" knob. 
+A simple Arduino BLE hid keyboard for the waveshare 1.8" knob. 
 
 The library is based on a number of examples:
 
@@ -10,7 +10,7 @@ The library is based on a number of examples:
 
 - BLE HID Keyboard from T-vK: https://github.com/T-vK/ESP32-BLE-Keyboard
 
-## Required libraries
+## Required Arduino libraries
 
 SensorLib by Lewis He - version 0.3.1
 
@@ -18,7 +18,7 @@ lvgl by kisvegabor - version 8.4.0
 
 ## Notes
 
-The new device I decided to use as a replacement to my previous mini-keyboard that was USB driven, not BT.
+This is the new device I decided to use as a replacement to my previous mini-keyboard that was USB driven, not BT.
 
 https://github.com/dlannan/mini-keyboard
 
@@ -32,11 +32,11 @@ The core features are:
 
 - Currently volume, and macro controls are available in the HID control. Will add more macros.
 
-- Sleep mode is 20 seconds. Note: It can take a few second for BlueTooth to "wake up and connect" coming out of sleep. So if you need fast responses for BT, then disable the sleep code.
+- Sleep mode is 20 seconds. Note: It can take a few seconds for BlueTooth to "wake up and connect" coming out of sleep. So if you need fast responses for BT, then disable the sleep code.
 
 The right and bottom dials do nothing at the moment. The current plan is to change these to cpu, network, and other stats (maybe configurable).
 
 # License
 
-MIT License... fo what you want with it :)
+MIT License... do what you want with it :)
 

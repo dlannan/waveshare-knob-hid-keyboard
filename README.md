@@ -16,7 +16,7 @@ SensorLib by Lewis He - version 0.3.1
 
 lvgl by kisvegabor - version 8.4.0
 
-![alt text](https://github.com/dlannan/mini-keyboard/blob/main/media/device_screenshot.jpg)
+![alt text](https://github.com/dlannan/waveshare-knob-hid-keyboard/blob/main/media/device_screenshot.jpg)
 
 ## Notes
 

@@ -16,6 +16,8 @@ SensorLib by Lewis He - version 0.3.1
 
 lvgl by kisvegabor - version 8.4.0
 
+![alt text](https://github.com/dlannan/mini-keyboard/blob/main/media/device_screenshot.jpg)
+
 ## Notes
 
 This is the new device I decided to use as a replacement to my previous mini-keyboard that was USB driven, not BT.

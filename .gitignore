@@ -1,0 +1,6 @@
+backup/
+autosave/
+
+manifest.mf
+nbbuild.xml
+nbproject
